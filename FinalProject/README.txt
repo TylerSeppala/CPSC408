@@ -17,3 +17,6 @@ For the starting point of this project, I referenced the following series: https
 Everything else is my own original code, which I learned to write from a variety of articles and videos. 
 
 For a more detailed description of the app, see the full report.
+
+To launch this application, open in pycharm, and navigate to the "AudioStation" directory. In the command line, type:
+python manage.py runserver, and you will be able to access it via your local:host address in a web browser.
